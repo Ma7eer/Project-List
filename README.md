@@ -8,6 +8,8 @@ A list of side projects I aim to build at some point in the future
 * [ ] Reciepe App
 * [ ] Movie info App (IMDB API)
 * [ ] Website Bookmark App
+* [ ] Weather App
+* [ ] Shopping cart
 
 Sources of inspiration:
 * Travesty Media
