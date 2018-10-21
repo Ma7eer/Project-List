@@ -5,9 +5,8 @@ A list of side projects I aim to build at some point in the future
 
 * [ ] Personal Website
 
-* [x] React current time component
-
- [Github](https://github.com/Ma7eer/React-current-time-component) | [Site]()
+* [x] React current time component:
+ [Github](https://github.com/Ma7eer/React-current-time-component) | Site
 
 * [ ] Kanban App
 
