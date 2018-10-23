@@ -24,7 +24,7 @@ A list of side projects I aim to build at some point in the future
 
 * [ ] js mini bundler (mini-webpack)
 
-* [ ] Guess the flag game
+* [x] Guess the flag game: [Github](https://github.com/Ma7eer/Guess-the-flag) | Site
 
 Sources of inspiration:
 * Travesty Media
