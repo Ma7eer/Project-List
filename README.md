@@ -18,7 +18,7 @@ A list of side projects I aim to build at some point in the future
 
 * [ ] Weather App
 
-* [ ] Shopping cart
+* [x] Shopping cart: [Github](https://github.com/Ma7eer/Express-Shopping-Cart) | Site
 
 * [ ] Memory Game
 
