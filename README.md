@@ -29,4 +29,5 @@ A list of side projects I aim to build at some point in the future
 Sources of inspiration:
 * Travesty Media
 * Jennifer DeWalt
+* Academind
 * https://github.com/danistefanovic/build-your-own-x#uncategorized
