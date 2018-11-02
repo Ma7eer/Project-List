@@ -18,7 +18,7 @@ A list of side projects I aim to build at some point in the future
 
 * [ ] Weather App
 
-* [x] Shopping cart: [Github](https://github.com/Ma7eer/Express-Shopping-Cart) | Site
+* [x] Shopping cart: [Github](https://github.com/Ma7eer/Express-Shopping-Cart) | [Site](https://shielded-plateau-99212.herokuapp.com/)
 
 * [ ] Memory Game
 
