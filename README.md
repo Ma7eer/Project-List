@@ -31,3 +31,4 @@ Sources of inspiration:
 * Jennifer DeWalt
 * Academind
 * https://github.com/danistefanovic/build-your-own-x#uncategorized
+* https://github.com/freeCodeCamp/2018-online-jamstack-hackathon/blob/master/teams.md
