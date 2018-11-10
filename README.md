@@ -12,7 +12,7 @@ A list of side projects I aim to build at some point in the future
 
 * [ ] Reciepe App
 
-* [ ] middle-east-travel: [Github](https://github.com/Ma7eer/middle-east-travel) | Site(https://admiring-brahmagupta-697f0d.netlify.com/)
+* [ ] middle-east-travel: [Github](https://github.com/Ma7eer/middle-east-travel) | [Site](https://admiring-brahmagupta-697f0d.netlify.com/)
 
 * [ ] Movie info App (IMDB API)
 
