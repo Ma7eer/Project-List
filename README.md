@@ -26,6 +26,14 @@ A list of side projects I aim to build at some point in the future
 
 * [x] Guess the flag game: [Github](https://github.com/Ma7eer/Guess-the-flag) | Site
 
+* [x] Simple-JS-timer: [Github](https://github.com/Ma7eer/Simple-JS-timer)
+
+* [x] Computer-tell-me-a-joke: [Github](https://github.com/Ma7eer/Computer-tell-me-a-joke) | [Site](https://amazing-volhard-4d7c8f.netlify.com/)
+
+* [x] Auth-App: [Github](https://github.com/Ma7eer/Auth-App) | [Site](https://mighty-springs-93655.herokuapp.com/)
+
+* [x] Pokedex: [Github](https://github.com/Ma7eer/Pokedex)
+
 Sources of inspiration:
 * Travesty Media
 * Jennifer DeWalt
