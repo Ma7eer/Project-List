@@ -26,7 +26,7 @@ A list of side projects I aim to build at some point in the future
 
 * [ ] js mini bundler (mini-webpack)
 
-* [x] Guess the flag game: [Github](https://github.com/Ma7eer/Guess-the-flag) | Site
+* [x] Guess the flag game: [Github](https://github.com/Ma7eer/Guess-the-flag) | [Site](https://awesome-turing-811668.netlify.com/)
 
 * [x] Simple-JS-timer: [Github](https://github.com/Ma7eer/Simple-JS-timer)
 
