@@ -12,7 +12,7 @@ A list of side projects I aim to build at some point in the future
 * [x] Pokedex: [Github](https://github.com/Ma7eer/Pokedex)
 
 * [x] React current time component:
- [Github](https://github.com/Ma7eer/React-current-time-component) | Site
+ [Github](https://github.com/Ma7eer/React-current-time-component)
 
 * [x] Shopping cart: [Github](https://github.com/Ma7eer/Express-Shopping-Cart) | [Site](https://shielded-plateau-99212.herokuapp.com/)
 
