@@ -16,6 +16,8 @@ A list of side projects I aim to build at some point in the future
 
 * [x] Shopping cart: [Github](https://github.com/Ma7eer/Express-Shopping-Cart) | [Site](https://shielded-plateau-99212.herokuapp.com/)
 
+* [x] middle-east-travel: [Github](https://github.com/Ma7eer/middle-east-travel) | [Site](https://admiring-brahmagupta-697f0d.netlify.com/)
+
 * [ ] Color scheme inspiration app
 
 * [ ] Personal Website
@@ -23,8 +25,6 @@ A list of side projects I aim to build at some point in the future
 * [ ] Kanban App
 
 * [ ] Reciepe App
-
-* [ ] middle-east-travel: [Github](https://github.com/Ma7eer/middle-east-travel) | [Site](https://admiring-brahmagupta-697f0d.netlify.com/)
 
 * [ ] Movie info App (IMDB API)
 
