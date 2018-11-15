@@ -1,12 +1,24 @@
 # Project-List
 A list of side projects I aim to build at some point in the future
 
-* [ ] Color scheme inspiration app
+* [x] Guess the flag game: [Github](https://github.com/Ma7eer/Guess-the-flag) | [Site](https://awesome-turing-811668.netlify.com/)
 
-* [ ] Personal Website
+* [x] Simple-JS-timer: [Github](https://github.com/Ma7eer/Simple-JS-timer)
+
+* [x] Computer-tell-me-a-joke: [Github](https://github.com/Ma7eer/Computer-tell-me-a-joke) | [Site](https://amazing-volhard-4d7c8f.netlify.com/)
+
+* [x] Auth-App: [Github](https://github.com/Ma7eer/Auth-App) | [Site](https://mighty-springs-93655.herokuapp.com/)
+
+* [x] Pokedex: [Github](https://github.com/Ma7eer/Pokedex)
 
 * [x] React current time component:
  [Github](https://github.com/Ma7eer/React-current-time-component) | Site
+
+* [x] Shopping cart: [Github](https://github.com/Ma7eer/Express-Shopping-Cart) | [Site](https://shielded-plateau-99212.herokuapp.com/)
+
+* [ ] Color scheme inspiration app
+
+* [ ] Personal Website
 
 * [ ] Kanban App
 
@@ -20,21 +32,10 @@ A list of side projects I aim to build at some point in the future
 
 * [ ] Weather App
 
-* [x] Shopping cart: [Github](https://github.com/Ma7eer/Express-Shopping-Cart) | [Site](https://shielded-plateau-99212.herokuapp.com/)
-
 * [ ] Memory Game
 
 * [ ] js mini bundler (mini-webpack)
 
-* [x] Guess the flag game: [Github](https://github.com/Ma7eer/Guess-the-flag) | [Site](https://awesome-turing-811668.netlify.com/)
-
-* [x] Simple-JS-timer: [Github](https://github.com/Ma7eer/Simple-JS-timer)
-
-* [x] Computer-tell-me-a-joke: [Github](https://github.com/Ma7eer/Computer-tell-me-a-joke) | [Site](https://amazing-volhard-4d7c8f.netlify.com/)
-
-* [x] Auth-App: [Github](https://github.com/Ma7eer/Auth-App) | [Site](https://mighty-springs-93655.herokuapp.com/)
-
-* [x] Pokedex: [Github](https://github.com/Ma7eer/Pokedex)
 
 Sources of inspiration:
 * Travesty Media
