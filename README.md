@@ -18,6 +18,8 @@ A list of side projects I aim to build at some point in the future
 
 * [x] middle-east-travel: [Github](https://github.com/Ma7eer/middle-east-travel) | [Site](https://admiring-brahmagupta-697f0d.netlify.com/)
 
+* [x] bday-text-bot: [Github](https://github.com/Ma7eer/bday-text-bot)
+
 * [ ] Color scheme inspiration app
 
 * [ ] Personal Website
