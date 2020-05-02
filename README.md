@@ -20,9 +20,7 @@ A list of side projects I aim to build at some point in the future
 
 * [x] bday-text-bot: [Github](https://github.com/Ma7eer/bday-text-bot)
 
-* [ ] Color scheme inspiration app
-
-* [ ] Personal Website
+* [x] Personal Website: [Github](https://github.com/Ma7eer/personal-website-v3) | [Site](https://maheralkendi.dev)
 
 * [ ] Kanban App
 
